@@ -1,4 +1,14 @@
-## Hi there 👋
+## Me 😄
+[Homepage](https://www.gordonrudman.com)
+[Photography](https://www.photography.gordonrudman.com)
+
+## Some of my creations 🔭
+[Code Genie](https://www.codegen.ie)
+[Semantic Components](https://www.components.saasacde.com)
+[SAAScade](https://www.saasacde.com)
+[Vinti](https://www.vinti.ie)
+
+
 
 <!--
 **GordonRudman/GordonRudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
