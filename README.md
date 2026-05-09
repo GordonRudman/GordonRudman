@@ -10,7 +10,7 @@
 
 [SAAScade](https://www.saascade.com)
 
-[Vinti](https://www.vinti.ie)
+[Vinti](https://www.vint.ie)
 
 
 
