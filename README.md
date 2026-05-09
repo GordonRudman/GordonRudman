@@ -1,7 +1,7 @@
 ## Me 😄
 [Homepage](https://www.gordonrudman.com)
 
-[Photography](https://www.photography.gordonrudman.com)
+[Photography](https://photography.gordonrudman.com)
 
 ## Some of my creations 🔭
 [Code Genie](https://www.codegen.ie)
