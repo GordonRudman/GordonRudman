@@ -6,9 +6,9 @@
 ## Some of my creations 🔭
 [Code Genie](https://www.codegen.ie)
 
-[Semantic Components](https://www.components.saasacde.com)
+[Semantic Components](https://www.components.saascade.com)
 
-[SAAScade](https://www.saasacde.com)
+[SAAScade](https://www.saascade.com)
 
 [Vinti](https://www.vinti.ie)
 
